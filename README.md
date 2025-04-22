@@ -20,7 +20,7 @@ pkg update && pkg upgrade -y
 pkg install git
 pkg install python -y
 cd $HOME
-rm -rf OGGY
+rm -rf OGGY-X
 git clone https://github.com/SKBER-CYBER/OGGY-X
 cd OGGY-X
 python OGGY-X.py
