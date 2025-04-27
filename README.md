@@ -22,6 +22,7 @@ pkg install python -y
 cd $HOME
 rm -rf OGGY-X
 git clone https://github.com/SKBER-CYBER/OGGY-X
+git pull
 cd OGGY-X
 python OGGY-X.py
 
