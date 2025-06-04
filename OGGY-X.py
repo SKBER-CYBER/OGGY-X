@@ -1,2 +1,1 @@
-import lala
-lala.main()
+print('[+] error fix first user')
